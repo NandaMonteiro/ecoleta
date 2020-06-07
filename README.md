@@ -21,6 +21,10 @@ Ecoleta tem como finalidade conectar empresas e entidades de coleta de resíduos
 
 **1:** Clone o repositório.
 
+```
+git clone https://github.com/NandaMonteiro/ecoleta
+```
+
 Certifique-se de que possui os Node.js instalado em sua maquina.
 
 Para rodar o servidor da aplicação, se faz necessário que navegue através do terminal até a pasta serve e execute os comandos:
