@@ -1,0 +1,14 @@
+#page-success{
+    height: 100vh;
+    text-align: center;
+    padding-top: 20%;
+}
+
+.icon {
+    color: #2FB86E;
+    font-size: 60px;
+}
+
+.text {
+    color: #2FB86E;
+}

@@ -1,3 +1,5 @@
+![Ecolata](./assets/ecoleta.png)
+
 # NLW - Next Level Week
 
 Aplicação de treinamento da **Rocketseat** desenolvida com **Node.js + Express** no *back-end*, **Sqlite** como banco de dados, **React.js** no *front-end* e **React Native** para desenvolver o mobile.
